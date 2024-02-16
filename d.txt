@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RAF</title>
+        <style>
+            th, td {
+                font-family: Arial, Helvetica, sans-serif;
+                padding: 8px;
+                text-align: center;
+            }
+
+            .text-left {
+                text-align: left;
+            }
+
+            table {
+                border-color: solid black;
+            }
+            .text-right {
+                text-align: right;
+            }
+
+            img {
+                width: 150px;
+                height: 80px;
+            }
+        </style>
+    </head>
+    <body>
+        <table width="100%">
+            <td width="33%">
+                <img src="download.png" width="80px" />
+            </td>
+            <td width="33%" class="text-center">
+                <div>
+                    <p>
+                        <b>
+                            <font size="+3"> STI COLLEGE DAVAO <br /> </font>
+                        </b>
+                        506 J.P. Laurel Ave., cor. Acacia, Davao City <br />
+                        Tel.No.: 082 2220914 or 305219
+                    </p>
+                </div>
+            </td>
+            <td width="33%" class="text-right">
+                <p>
+                    <b>
+                        Registration and <br />
+                        Assessment Form
+                    </b>
+                </p>
+            </td>
+        </table>
+
+        <table border="1" width="100%" style="border-collapse: collapse;">
+            <tr>
+                <td>
+                    <b>Student Information</b>
+                </td>
+
+                <td class="text-left"><i>SY & Term:</i></td>
+                <td class="text-left">2324/2T</td>
+                <td class="text-left"><i>Program:</i></td>
+                <td class="text-left">BSIT</td>
+                <td class="text-left"><i>Year Level:</i></td>
+                <td class="text-left">3Y2</td>
+            </tr>
+            <tr>
+                <th>02000262644</th>
+                <th colspan="2">ABANES</th>
+                <th colspan="2">CHRISTOPHER JOHN</th>
+                <th colspan="2">ALCOS</th>
+            </tr>
+            <tr>
+                <td><i>Student No</i></td>
+                <td colspan="2"><i>Last Name</i></td>
+                <td colspan="2"><i>First Name</i></td>
+                <td colspan="2"><i>Middle Name</i></td>
+            </tr>
+            <tr>
+                <th colspan="7">A C A D E M I C</th>
+            </tr>
+            <tr>
+                <td class="text-left">Course Description</td>
+                <td>Units</td>
+                <td>Class No/Sec.</td>
+                <td>Days</td>
+                <td>Time</td>
+                <td>Room</td>
+                <td>Instructor</td>
+            </tr>
+            <tr>
+                <td class="text-left">IT Capstone Project 1</td>
+                <td>3.00</td>
+                <td>23290/BSIT601</td>
+                <td>T</td>
+                <td>3:00PM-5:00PM</td>
+                <td>302</td>
+                <td>UBAS, ELVI LITO ESTAMPA</td>
+            </tr>
+            <tr>
+                <td class="text-left" rowspan="2">Programming Languages</td>
+                <td rowspan="2">3.00</td>
+                <td rowspan="2">20610/BSIT601</td>
+                <td>M</td>
+                <td>2:00PM-5:00PM</td>
+                <td>COMLAB3</td>
+                <td rowspan="2">BANTIGUE, DOMINIC RAMOS</td>
+            </tr>
+            <td>W</td>
+            <td>8:00AM-10:00AM</td>
+            <td>PHYLAB</td>
+            <tr>
+                <td class="text-left" rowspan="2">
+                    Information Assurance & Security <br />
+                    (Cybersecurity Fundamentals)
+                </td>
+                <td rowspan="2">3.00</td>
+                <td rowspan="2">20613/BSIT601</td>
+                <td>MTh</td>
+                <td>12:30PM-1:30PM</td>
+                <td>402</td>
+                <td rowspan="2">TBA</td>
+            </tr>
+            <td>M</td>
+            <td>8:00AM-11:00AM</td>
+            <td>COMLAB2</td>
+            <tr></tr>
+            <tr>
+                <td class="text-left">Great Books</td>
+                <td>3.00</td>
+                <td>20608/BSIT601</td>
+                <td>TF</td>
+                <td>12:00PM-1:30PM</td>
+                <td>401</td>
+                <td>SAVERON, SITTIE PHILINE</td>
+            </tr>
+            <tr>
+                <td class="text-left" rowspan="2">Mobile Systems and Technologies</td>
+                <td rowspan="2">3.00</td>
+                <td rowspan="2">20612/BSIT601</td>
+                <td>W</td>
+                <td>12:00PM-2:00PM</td>
+                <td>303</td>
+                <td rowspan="2">MIGUE, CLYDE ANTHONY LIGAN</td>
+            </tr>
+            <td>Th</td>
+            <td>2:00PM-5:00PM</td>
+            <td>COMLAB2</td>
+            <tr></tr>
+            <tr>
+                <td class="text-left">Management Information Systems</td>
+                <td>3.00</td>
+                <td>20601/BSIT601</td>
+                <td>W</td>
+                <td>2:00PM-5:00PM</td>
+                <td>303</td>
+                <td>UBAS, ELVI LITO ESTAMPA</td>
+            </tr>
+            <tr>
+                <td class="text-left" rowspan="2">Web Systems and Technologies</td>
+                <td rowspan="2">3.00</td>
+                <td rowspan="2">20598/BSIT601</td>
+                <td>F</td>
+                <td>2:00PM-5:00PM</td>
+                <td>COMLAB3</td>
+                <td rowspan="2">CALIJA, VINCENT BRYAN FAULVE</td>
+            </tr>
+            <tr>
+                <td>W</td>
+                <td>5:00PM-7:00AM</td>
+                <td>302</td>
+            </tr>
+            <tr>
+                <td>Total Units</td>
+                <td><b>21.00</b></td>
+            </tr>
+        </table>
+       
+        <table  border="1" width="100%">
+            <tr>
+                <td colspan="1" align="center"><b>F I N A N C I A L</b></td>
+            </tr>
+        <table border="1" width="100%">
+            <tr>
+                <th><i>Student Group:</i><b>Teriary - Low Monthly Payment</b></th>
+                <td colspan="1" class="text-indent-normal border-none text-left">
+                    PAYMENTS AND OTHER ADJUSTMENTS</td>    
+
+            </tr>
+            
+            <tr>
+                <td colspan="1" class="text-indent-normal border-none text-left"><b>CHARGES for 2023-2024/2nd Term</b></td>    
+            </tr>
+            <tr>
+                <td colspan="1" class="text-indent-normal border-none text-left">
+                    TUITION FEES</td>      
+            </tr>
+            <tr>
+                <td rowspan="1 " class="text-indent-normal border-none text-left">
+                    SPONSORSHIP</td>
+            </tr>
+             
+            <tr>
+                <td colspan="1" class="text-indent-normal border-none text-left">
+                    OTHER SCHOOL FEES</td>
+            <tr>
+                <td colspan="1" class="text-indent-normal border-none text-left">
+                    MISCELLANEOUS FEES</td>
+            </tr>
+    </body>
+</html>
